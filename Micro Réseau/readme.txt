@@ -1,0 +1,2 @@
+-Avancer le temps pour que les appareils Wi-Fi se connectent rapidement et que l'adressage automatique par DHCP se fasse.
+-Faire plusieurs pings avec le même ordinateur vers le second réseau pour qu'il explore le réseau et que les pings soit réussies.

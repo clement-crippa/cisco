@@ -1,0 +1,2 @@
+-Avancer le temps de 3-5min environ pour que les appareils wifi se connecte rapidement et que l'adressage automatique par DHCP se fasse.
+-Remettre l'ip 192.168.1.3 masque 255.255.255.0 sur l'ordinateur portable car a chaque lancement du projet il se retire.
